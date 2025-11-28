@@ -1,0 +1,8 @@
+{
+  "name": "PsychoMetric AI Profiler",
+  "description": "A comprehensive psychological profiling application using Gemini to analyze personality based on demographics, visual characteristics, and behavioral questionnaires.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
